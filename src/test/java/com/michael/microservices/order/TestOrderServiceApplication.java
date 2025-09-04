@@ -1,4 +1,4 @@
-package com.michael.order_service;
+package com.michael.microservices.order;
 
 import org.springframework.boot.SpringApplication;
 

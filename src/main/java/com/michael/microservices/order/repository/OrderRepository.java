@@ -1,6 +1,6 @@
-package com.michael.order_service.repository;
+package com.michael.microservices.order.repository;
 
-import com.michael.order_service.model.Order;
+import com.michael.microservices.order.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

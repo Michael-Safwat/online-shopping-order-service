@@ -1,4 +1,4 @@
-package com.michael.order_service.model;
+package com.michael.microservices.order.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

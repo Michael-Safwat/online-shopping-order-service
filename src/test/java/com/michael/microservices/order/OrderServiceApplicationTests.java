@@ -1,6 +1,6 @@
-package com.michael.order_service;
+package com.michael.microservices.order;
 
-import com.michael.order_service.stubs.InventoryClientStub;
+import com.michael.microservices.order.stubs.InventoryClientStub;
 import io.restassured.RestAssured;
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.BeforeEach;
